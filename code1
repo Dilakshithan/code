@@ -1,2 +1,9 @@
 dilak end a summava 
 domain
+dilak is hero
+#include<iostream>
+using namespace std;
+int main
+{ cout<<"hello my babe";
+   return 0;
+}
